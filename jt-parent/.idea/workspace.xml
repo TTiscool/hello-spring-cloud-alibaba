@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c795ccd-6a0d-4c68-88df-690d6d2ac9bf" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jt-common/target/" />
+    <ignored path="$PROJECT_DIR$/jt-manage/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/ItemController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/ItemMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>F:\IEDAworkspace\IdeaProjects\jt-parent\jt-common</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/FileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/TomcatConfig.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/JtManageApplication.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/pojo/User.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-manage/src/test/java/com/jt/manage/JtManageApplicationTests.java" />
+        <option value="$PROJECT_DIR$/jt-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/po/Item.java" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/po/BasePojo.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemMapper.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/ItemMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/ItemController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="92" />
+    <option name="y" value="38" />
+    <option name="width" value="1514" />
+    <option name="height" value="926" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IEDAworkspace\IdeaProjects\jt-parent\jt-manage\src\main\resources\mybatis\mappers" />
+      <recent name="F:\IEDAworkspace\IdeaProjects\jt-parent\jt-manage\src\main\webapp\WEB-INF\views" />
+      <recent name="F:\IEDAworkspace\IdeaProjects\jt-parent\jt-manage\src\main\resources\templates" />
+      <recent name="F:\IEDAworkspace\IdeaProjects\jt-parent\jt-manage\src\main\resources" />
+      <recent name="F:\IEDAworkspace\IdeaProjects\jt-parent\jt-manage\src\main\java\com\jt\manage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JtManageApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JtManageApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jt-manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jt.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.jt.manage.JtManageApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="JtManageApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jt-manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jt.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.jt.manage.JtManageApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="jt-manage [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jt-manage" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="jt-manage [spring-boot:start]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:start" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jt-manage" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="jt-parent [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="JtManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.manage.JtManageApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.jt-parent [spring-boot:run]" />
+      <item itemvalue="Maven.jt-manage [spring-boot:run]" />
+      <item itemvalue="Maven.jt-manage [spring-boot:start]" />
+      <item itemvalue="Spring Boot.JtManageApplication" />
+      <item itemvalue="JUnit.JtManageApplicationTests" />
+      <item itemvalue="JUnit.JtManageApplicationTests.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JtManageApplication" />
+        <item itemvalue="JUnit.JtManageApplicationTests.test1" />
+        <item itemvalue="JUnit.JtManageApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c795ccd-6a0d-4c68-88df-690d6d2ac9bf" name="Default" comment="" />
+      <created>1582189419596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582189419596</updated>
+      <workItem from="1582189424553" duration="21744000" />
+      <workItem from="1582619609277" duration="2268000" />
+      <workItem from="1582623381276" duration="372000" />
+      <workItem from="1582623777509" duration="1664000" />
+      <workItem from="1582635783648" duration="369000" />
+      <workItem from="1582636951734" duration="623000" />
+      <workItem from="1582637616957" duration="542000" />
+      <workItem from="1582638210253" duration="921000" />
+      <workItem from="1582640240742" duration="2047000" />
+      <workItem from="1582645837620" duration="2676000" />
+      <workItem from="1582871631440" duration="65000" />
+      <workItem from="1583328887445" duration="11407000" />
+      <workItem from="1583501477797" duration="3634000" />
+      <workItem from="1583506823898" duration="19572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JtManageApplicationTests - 2020.03.06 at 17h 00m 15s.xml">
+      <configuration name="JtManageApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests - 2020.03.06 at 17h 00m 52s.xml">
+      <configuration name="JtManageApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests - 2020.03.06 at 17h 02m 29s.xml">
+      <configuration name="JtManageApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 03m 20s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 05m 21s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 21m 53s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 22m 30s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 28m 34s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 45m 52s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JtManageApplicationTests_test1 - 2020.03.06 at 17h 48m 25s.xml">
+      <configuration name="JtManageApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="38" width="1514" height="926" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3287483" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32820198" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3294036" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24965326" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32977462" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61238223" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26144245" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.3287483" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3287483" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32988167" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3294036" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25728154" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/util/IdleConnectionEvictor.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/vo/EasyUITree.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/FileService.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/FileServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemCatService.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemCatServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemDescMapper.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemCatMapper.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mybatis-config.xml" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/templates/userList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/userList.jsp" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/TomcatConfig.java" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/commons/common-js.jsp" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/css/jt.css" />
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/login.jsp" />
+    <entry file="jar://F:/maven/.m2/repository/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE.jar!/org/springframework/web/context/WebApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/JtCommonApplication.java" />
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/mapper/SysMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/mapper/SysMapperProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/test/java/com/jt/manage/JtManageApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/module=jt-manage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=jt-manage</OriginalElement>
+          <nodes>
+            <node x="" y="">module=jt-manage</node>
+            <node x="" y="">fileset=jt-manage/JtManageApplication</node>
+            <node x="" y="">com.jt.manage.JtManageApplication</node>
+            <node x="" y="">org.mybatis.spring.annotation.MapperScan</node>
+            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+            <node x="" y="">fileset=jt-manage/MVC springmvc servlet context</node>
+            <node x="" y="">fileset=jt-manage/JtManageApplication MVC</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="437.0" y="76.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-jt-manage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-jt-manage</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-jt-manage</node>
+            <node x="" y="">mdl-jt-common</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="83.0" y="61.0" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/F:/IEDAworkspace/IdeaProjects/jt-parent/jt-manage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/jt-manage</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/0.gif</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/accept.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/splitbutton/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/actions.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/addremove.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/ajax.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/ajax.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/alert.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/aligncolumns.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/alignment.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combo/animation.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/animation.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/attaching.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/auto-height.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/autoheight.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/autoheight.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combo/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/splitbutton/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/progressbar/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/easyloader/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/resizable/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/basic.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/button.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/buttonalign.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/buttons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cacheeditor.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/category.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cellediting.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cellstyle.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/checkbox.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/checkbox.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/clearicon.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/clearicon.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/clientpagination.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/clientpagination.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/themes/color.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/colorpicker.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/columngroup.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/complex.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/complextoolbar.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/complextoolbar.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/constrain.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/contextmenu.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/contextmenu.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/contextmenu.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/custom-plugin.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/custom-theme.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/custom.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/custom.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/custombuttons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/customcolumns.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/customcontent.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/customformat.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/customitem.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/custompager.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/customstyle.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/customtools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/customtools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/customtooltip.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/dateformat.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/themes/default/default.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/default.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/demo.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/dialog.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/disabledate.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/dnd.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/dropdown.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/dynamic-load.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/dynamicdata.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/easyloader.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-1.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-10-accordion.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-11-layout.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-12-super.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-12-super1.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-12-super2.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-2.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-3-menu.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-4-linkbutton.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-5-window.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-6-datagrid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-7-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-8-panel.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-9-tabs.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/easyui.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/editable.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/editable.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/events.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/events.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/expandable.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/file-dialog.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/file-manager.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/filter-mode.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/firstday.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/fixedwidth.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/progressbar/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/fluid.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/format.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/format.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/formatcolumns.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/formatting.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/formattip.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/frozencolumns.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/frozenrows.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/full.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/group.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/group.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/groupformat.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/hover.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/themes/icon.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/iconalign.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/icons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/icons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/icons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/image-dialog.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/increment.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/initvalue.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/initvalue.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/initvalue.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/inlinewindow.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/interactive.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/jquery-ui/js/jquery-ui-1.9.2.custom.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/jquery-ui.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/jquery.easyui.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/jquery.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/jquery.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/jquery.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/kindeditor-min.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/kindeditor.js</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/layout.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/lazyload.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/lines.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/lines.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/links.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/load.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/loadcontent.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap/map.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/plugins/map/map.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/mergecells.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/modalwindow.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/multi-image-dialog.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/multi-language.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/multiline.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/multiline.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/multiple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/multiple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/multiple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/multiple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/multisorting.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/navigation.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/navigation.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/nestedlayout.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/nestedpanel.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/nestedtabs.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/newline.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/nocollapsible.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/node.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/nonlinear.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/paneltools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/paste-type.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/plain.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/position.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/position.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/qqstyle.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/range.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/range.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/range.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/readonly.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/remotedata.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/remotejsonp.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/reports.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/restrict.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowborder.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowediting.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowstyle.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/rule.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/selection.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/sharedcalendar.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/showseconds.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/simple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/simple.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/simpletoolbar.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/size.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/size.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/snap.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/sort.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/striptools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/style.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabimage.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabposition.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabstools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/toggle.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/toolbar.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/toolbarbuttons.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/tools.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/tooltipdialog.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/transform.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/uploadbutton.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/url-type.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/validate.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/validateonblur.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/validateonsubmit.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/vertical.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/windowlayout.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/examples/word-count.html</node>
+            <node x="" y="">$PROJECT_DIR$/jt-manage/src/main/webapp/js/kindeditor-4.1.10/lang/zh_CN.js</node>
+            <node x="" y="">/easy-ui/images/lol.jpg</node>
+            <node x="" y="">/easy-ui/images/timg.jpg</node>
+            <node x="" y="">/easy-ui/images/timg1.jpg</node>
+            <node x="" y="">/easy-ui/images/timg2.jpg</node>
+            <node x="" y="">/js/jquery-easyui-1.4.1/jquery.easyui.min.js</node>
+            <node x="" y="">/js/jquery-easyui-1.4.1/jquery.min.js</node>
+            <node x="" y="">/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js</node>
+            <node x="" y="">/js/jquery-easyui-1.4.1/themes/default/easyui.css</node>
+            <node x="" y="">/js/jquery-easyui-1.4.1/themes/icon.css</node>
+            <node x="" y="">http://api.map.baidu.com/api?key=&amp;v=1.1&amp;services=true</node>
+            <node x="" y="">http://api.map.baidu.com/api?v=1.3</node>
+            <node x="" y="">http://img1.cache.netease.com/img09/logo/logo.gif</node>
+            <node x="" y="">http://maps.googleapis.com/maps/api/js?sensor=false&amp;language=zh_CN</node>
+            <node x="" y="">http://www.jeasyui.com/images/logo1.png</node>
+            <node x="" y="">http://www.kindsoft.net/images/logo_180_30.gif</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9644416189870734" x="915.4880690806822" y="4485.305326067851" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/po/BasePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/po/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1576#1577#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+            <element signature="e#1797#1798#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1882#1883#0" expanded="true" />
+            <element signature="e#1926#1927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/JtManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven/.m2/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8-sources.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/item-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="172" selection-start-line="172" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jt-manage:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (jt-manage)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|jt-manage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
